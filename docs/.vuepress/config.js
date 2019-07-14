@@ -13,6 +13,7 @@ module.exports = {
       { text: 'Startseite', link: '/' },
       { text: 'Linkliste', link: '/Linkliste' },
       { text: 'Impressum', link: '/Impressum' },
+      { text: 'Datenschutz', link: '/Datenschutz' },
     ],
     lastUpdated: 'Zuletzt geändert', // string | boolean
     // sidebar: 'auto',
