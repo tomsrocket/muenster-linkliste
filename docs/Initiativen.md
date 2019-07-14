@@ -2,9 +2,7 @@
 
 # Initiativen
 
-::: tip
-Whatever
-:::
+In Münster gibt es viele Vereine und Intitiativen, die sich teilweise ehrenamtlich für eine bessere Stadt und ein lebenswerteres Umfeld einsetzen. Ob Fahrradwerkstatt mit Hilfe zur Selbsthilfe, oder Hackerspace mit 3d-Druckern, es gibt einiges zu erkunden.  
 
 ## ADFC Münster
 ::: tip
@@ -46,9 +44,29 @@ Hackerspace am Hawerkamp 31, jeden Mittwoch ab 18:00 offene Tür\
 :::
 Stichworte: 3D-Druck, Hacker, Maker, Freifunk, Quadcopter
 
-Münstercamp	https://muenstercamp.de/			
-Mietverein			Wohnen	
-Fahhrradwerkstatt	https://www.stadt-muenster.de/jib/die-werkstatt.html		Mobilität	Selbsthilfe-Fahrrradwerkstatt, Kooperation aus Jugendzentrum und AStA
-DigitalHUB	https://www.digitalhub.ms/		Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups und Techies
-Verbraucherzentrale	https://www.verbraucherzentrale.nrw/beratungsstellen/muenster		Hilfe	Informieren und beraten zu den vielfältigen Fragen des Verbraucheralltags und helfen, Verbraucherrechte durchzusetzen.
+## Münstercamp	
+::: tip
+https://muenstercamp.de/			
+:::
+
+## Mietverein			
+
+
+## JiB Fahhrradwerkstatt	
+::: tip
+https://www.stadt-muenster.de/jib/die-werkstatt.html
+:::	
+Selbsthilfe-Fahrrradwerkstatt, in Kooperation zwischen Jugendzentrum und AStA
+
+## Verbraucherzentrale	
+::: tip
+https://www.verbraucherzentrale.nrw/beratungsstellen/muenster		
+:::
+Informiert und berät zu den vielfältigen Fragen des Verbraucheralltags und hilft, Verbraucherrechte durchzusetzen.
+
+### DigitalHUB	
+::: tip
+https://www.digitalhub.ms/		
+:::
+Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups und Techies
 
