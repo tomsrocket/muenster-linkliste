@@ -1,17 +1,17 @@
 module.exports = {
-  title: "MünstAH! - der Münster Webkatalog",
-  description: "Münster-Linksammlung zu verschiedenen Themengebieten",
+  title: "MünstAH! - Die Münster Linksammlung",
+  description: "Wer sagt, Webkataloge wären out?!",
   themeConfig: {
     sidebarDepth: 2,
     sidebar: [
-      '/Initiativen',
       '/Nachrichten',
+      '/Initiativen',
       '/Sonstige',
       //['/page-b', 'Explicit link text']
     ],	  
     nav: [
       { text: 'Startseite', link: '/' },
-      { text: 'Linkliste', link: '/Linkliste' },
+      { text: 'Linkliste', link: '/Nachrichten' },
       { text: 'Impressum', link: '/Impressum' },
       { text: 'Datenschutz', link: '/Datenschutz' },
     ],
@@ -40,6 +40,14 @@ module.exports = {
 
     
   },
+  plugins: [
+    [ 
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-3346698-6' // UA-00000000-0
+      }
+    ]  
+  ], 
   markdown: {
     linkify: true,
     config: md => {
