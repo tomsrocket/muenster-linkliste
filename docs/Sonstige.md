@@ -1,9 +1,9 @@
 
 # Sonstige
 
-## Münster geht aus
+## Münster Stadtteil Links 
 ::: tip
-https://www.muenster-geht-aus.de/
+https://www.muenster.de/stadtteile.html
 :::
 
 ## Münster Webcam Karte
@@ -11,12 +11,29 @@ https://www.muenster-geht-aus.de/
 http://www.webcam-muenster.de/karte/
 :::
 
-## more page
 
+## Unternehmungstipps
 
-* hello
-* world
-  * sub 1
-* hello 2
-  * sub 2
+### Münster geht aus
+::: tip
+https://www.muenster-geht-aus.de/
+:::
+##Sport
+
+### Liste aller Sportvereine 
+::: tip
+http://www.sportvereine-ms.de/
+:::
+
+## Mobilität
+
+### Stadtteilauto 
+::: tip
+https://www.stadtteilauto.com
+:::
+
+### Linkliste des Studentenwerks
+::: tip
+https://www.stw-muenster.de/de/links/
+:::
 
