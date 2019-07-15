@@ -1,6 +1,8 @@
 
 # Nachrichten & Termine
 
+![alt text](/zeitung.jpg "Hero Image")
+
 ## Nachrichtenseiten
 
 ### Westfälische Nachrichten
