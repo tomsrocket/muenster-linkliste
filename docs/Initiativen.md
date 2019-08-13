@@ -68,4 +68,5 @@ Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups
 ### Weitere
  
  * muenstercamp.de - Einmal im Jahr findet das Barcamp "Münstercamp" statt, ein kreatives und inspirierendes Treffen.
+ * https://www.münster-fast-umsonst.de - "Münster-Ratgeber für ein preiswertes Leben" 
 
