@@ -33,7 +33,10 @@ Nicht nur im gedruckten Heft, auch auf der Internetpräsenz findet man teilweise
 https://www.muenster-magazin.com/
 :::
 
-
+### Münster-Journal
+::: tip
+https://muenster-journal.de/
+:::
 
 ## Terminseiten
 
