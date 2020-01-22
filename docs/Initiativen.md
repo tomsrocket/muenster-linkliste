@@ -75,4 +75,5 @@ Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups
  * https://www.münster-fast-umsonst.de - "Münster-Ratgeber für ein preiswertes Leben" - Links zu Tauschbörsen, Give-Boxen, etc.
  * https://www.awm-tauschmarkt.de/ - AWM Tauschmarkt "Tausch- und Verschenkmarkt Münster", es gibt dort auch eine Terminseite mit Flohmarktterminen.
  * http://muenster-nachhaltig.de/ - "Münster Nachhaltig", mit umfangreicher Vernetzung zu weiteren Nachhaltigkeitsinitiativen
+ * http://wiki.muenster.org/index.php/%C3%96ffentliche_B%C3%BCcherregale_in_M%C3%BCnster - Liste öffentlchentlicher Bücherregale in Münster
 
