@@ -68,6 +68,11 @@ Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups
 ### Weitere
  
  * muenstercamp.de - Einmal im Jahr findet das Barcamp "Münstercamp" statt, ein kreatives und inspirierendes Treffen.
- * https://www.münster-fast-umsonst.de - "Münster-Ratgeber für ein preiswertes Leben" 
+
+
+## Nachhaltigkeit
+
+ * https://www.münster-fast-umsonst.de - "Münster-Ratgeber für ein preiswertes Leben" - Links zu Tauschbörsen, Give-Boxen, etc.
  * https://www.awm-tauschmarkt.de/ - AWM Tauschmarkt "Tausch- und Verschenkmarkt Münster", es gibt dort auch eine Terminseite mit Flohmarktterminen.
+ * http://muenster-nachhaltig.de/ - "Münster Nachhaltig", mit umfangreicher Vernetzung zu weiteren Nachhaltigkeitsinitiativen
 
