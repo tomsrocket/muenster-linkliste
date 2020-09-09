@@ -76,4 +76,6 @@ Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups
  * https://www.awm-tauschmarkt.de/ - AWM Tauschmarkt "Tausch- und Verschenkmarkt Münster", es gibt dort auch eine Terminseite mit Flohmarktterminen.
  * http://muenster-nachhaltig.de/ - "Münster Nachhaltig", mit umfangreicher Vernetzung zu weiteren Nachhaltigkeitsinitiativen
  * http://wiki.muenster.org/index.php/%C3%96ffentliche_B%C3%BCcherregale_in_M%C3%BCnster - Liste öffentlchentlicher Bücherregale in Münster
+ * https://vamos-muenster.de - "Vamos e.V." Gemeinnütziger Verein aus Münster - Themen: Weltnachhaltigkeitsziele (SDG), Menschenrechte, Fairer Handel, Alternativer Konsum, etc. Zielgruppen sind schulische und außerschulische Bildungseinrichtungen, Kirchen, Kommunen, Vereine und Initiativen, Weltläden, sowie Multiplikator*innen.
+ * https://eine-welt-netz-nrw.de - Das Eine Welt Netz NRW ist der Zusammenschluss von Menschen und von zivilgesellschaftlichen Organisationen und Gruppen in Nordrhein-Westfalen, die sich für nachhaltige Entwicklung in globaler Verantwortung engagieren. 
 
