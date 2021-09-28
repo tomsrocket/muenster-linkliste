@@ -78,4 +78,6 @@ Kreativität	Wir entwickeln digitale Geschäftsmodelle mit Mittelstand, Startups
  * http://wiki.muenster.org/index.php/%C3%96ffentliche_B%C3%BCcherregale_in_M%C3%BCnster - Liste öffentlchentlicher Bücherregale in Münster
  * https://vamos-muenster.de - "Vamos e.V." Gemeinnütziger Verein aus Münster - Themen: Weltnachhaltigkeitsziele (SDG), Menschenrechte, Fairer Handel, Alternativer Konsum, etc. Zielgruppen sind schulische und außerschulische Bildungseinrichtungen, Kirchen, Kommunen, Vereine und Initiativen, Weltläden, sowie Multiplikator*innen.
  * https://eine-welt-netz-nrw.de - Das Eine Welt Netz NRW ist der Zusammenschluss von Menschen und von zivilgesellschaftlichen Organisationen und Gruppen in Nordrhein-Westfalen, die sich für nachhaltige Entwicklung in globaler Verantwortung engagieren. 
+ * https://fairtradestadtmuenster.de - "Unser Ziel ist es, den Fairen Handel in Münster zu stärken und die Idee einer weltweit gerecht und ökologischen Wirtschafts- und Lebensweise breit in die Bevölkerung zu tragen – ohne Werbung für mehr Konsum." 
+ * https://muensterfair.de - "Wir wollen all diejenigen auf einer Plattform zusammenbringen, die sich mit dem Thema Nachhaltigkeit auseinandersetzen. muenster.fair soll Inspiration bieten, informieren und lädt dazu ein, Neues zu entdecken und bereits Bekanntes aus einer neuen Perspektive zu betrachten."
 
