@@ -1,7 +1,7 @@
 
 # Sonstige
 
-## Münster Stadtteil Links 
+## Münster Stadtteil Links
 ::: tip
 https://www.muenster.de/stadtteile.html
 :::
@@ -20,14 +20,14 @@ https://www.muenster-geht-aus.de/
 :::
 ##Sport
 
-### Liste aller Sportvereine 
+### Liste aller Sportvereine
 ::: tip
-http://www.sportvereine-ms.de/
+https://muensteraktiv.de/vereine/
 :::
 
 ## Mobilität
 
-### Stadtteilauto 
+### Stadtteilauto
 ::: tip
 https://www.stadtteilauto.com
 :::
@@ -39,7 +39,7 @@ https://www.stw-muenster.de/de/links/
 
 ## Münster Merchandise
 
-Inzwischen gibt's in der Innenstadt einige Ladengeschäfte in denen man Münster Artikel kaufen kann, z.B. T-Shirts mit Münsteraufdruck, oder Mützen und Caps. Die meisten dieser Shops bieten ihre Waren auch im Internet an: 
+Inzwischen gibt's in der Innenstadt einige Ladengeschäfte in denen man Münster Artikel kaufen kann, z.B. T-Shirts mit Münsteraufdruck, oder Mützen und Caps. Die meisten dieser Shops bieten ihre Waren auch im Internet an:
 
 * https://www.muenster-souvenirs.de - Der städtische Münster Shop in der Klemensstraße 4
 * https://www.ilovemuenster.shop/ - I♥MÜNSTER
